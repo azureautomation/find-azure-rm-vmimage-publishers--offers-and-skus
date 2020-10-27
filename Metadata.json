@@ -1,7 +1,7 @@
 {
     "Author": "Ben Wilkinson",
     "ContentSize": 5406,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/find-azure-rm-vmimage-publishers,-offers-and-skus./master/Find-AzureRMPublisherImageOffer.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/find-azure-rm-vmimage-publishers--offers-and-skus/master/Find-AzureRMPublisherImageOffer.ps1",
     "DownloadCount": 839,
     "Id": "Find-Azure-RM-VMImage-1e07901a",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "When you deploy a Virtual Machine Image, you need to know the Size of the Virtual Machine, this script can help to get the Sizes in your region:https://gallery.technet.microsoft.com/scriptcenter/Find-Azure-RM-Virtual-8ee175d5?redir=0You also need to know the following informati",
     "Title": "Find Azure RM VMImage Publishers, Offers and Skus.",
     "UpdatedDate": "2018-1-20T00:00:00",
-    "Url": "https://github.com/azureautomation/find-azure-rm-vmimage-publishers,-offers-and-skus.",
+    "Url": "https://github.com/azureautomation/find-azure-rm-vmimage-publishers--offers-and-skus",
     "UserTags": "Azure Virtual Machines, Offer, Skus"
 }
